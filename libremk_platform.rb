@@ -1,4 +1,4 @@
-class LibRemkPlatform < Formula
+class LibremkPlatform < Formula
   desc "Really Experimental MK platform"
   homepage "https://measurement-kit.github.io/"
   version "v1.0.0"
