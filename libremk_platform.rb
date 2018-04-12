@@ -1,9 +1,9 @@
 class LibremkPlatform < Formula
   desc "Really Experimental MK platform"
   homepage "https://measurement-kit.github.io/"
-  version "v5.0.0"
-  url "https://github.com/bassosimone/libremk_platform/archive/v5.0.0.tar.gz"
-  sha256 "92c1ce20e56f6249dd92ef942ef7517fb40edba0408c2f8970900c970603e6fe"
+  version "v6.0.0"
+  url "https://github.com/bassosimone/libremk_platform/archive/v6.0.0.tar.gz"
+  sha256 "964b6cfddbaf96de290e7de5e8ea2e3aae652e56a5e9b13e866a9bebcede6bb2"
 
   depends_on "cmake"
 
